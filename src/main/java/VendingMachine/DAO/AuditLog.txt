@@ -1,2 +1,1 @@
-[2021-10-20 20:20:34]::VendingMachine.ServiceLayer.NoItemInventoryException::101::0.00£
-[2021-10-20 20:20:39]::VendingMachine.ServiceLayer.InsufficientFundsException::103::0.00£
+[2021-10-21 12:56:29]::VendingMachine.ServiceLayer.InsufficientFundsException::102::0.00£
